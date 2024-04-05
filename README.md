@@ -49,5 +49,5 @@ Projeyi daha yakından tüm Ekran Görüntüleri ile takip etmek yerine bizimle 
 <img src="./images/blackjack.png" />
 <img src="./images/slot.png" />
 
-# 🪁 Son Bilgi
+# 🥅 Bi düşün.
 Buraya kadar incelediysen ilgilendiğini düşünüyorum benimle [iletişime](https://discord.com/users/937316083533230110) geçebilirsin 💝
